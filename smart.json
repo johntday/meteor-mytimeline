@@ -1,0 +1,9 @@
+{
+  "name": "mytimeline",
+  "description": "mytimeline",
+  "homepage": "http://almende.github.io/chap-links-library/timeline.html",
+  "author": "https://github.com/almende",
+  "version": "2.5.0",
+  "git": "https://github.com/almende/chap-links-library.git",
+  "packages": {}
+}
